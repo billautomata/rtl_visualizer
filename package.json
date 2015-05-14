@@ -1,0 +1,23 @@
+{
+  "name": "rtl_visualizer",
+  "version": "1.0.0",
+  "description": "uses the rtl_sdr package to visualize radiowaveforms",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billautomata/rtl_visualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billautomata/rtl_visualizer/issues"
+  },
+  "homepage": "https://github.com/billautomata/rtl_visualizer",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "mongojs": "^0.18.2"
+  }
+}
